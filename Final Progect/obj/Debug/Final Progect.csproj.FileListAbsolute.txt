@@ -1,0 +1,24 @@
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\bin\Debug\Final Progect.exe.config
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\bin\Debug\Final Progect.exe
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\bin\Debug\Final Progect.pdb
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final Progect.csproj.AssemblyReference.cache
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Form2.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Properties.Resources.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final Progect.csproj.GenerateResource.cache
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final Progect.csproj.CoreCompileInputs.cache
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final Progect.exe
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final Progect.pdb
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Form4.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Form5.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.WELCOME.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Form6.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Form7.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Form10.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Form8.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Form9.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Form11.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Form12.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Form13.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Form14.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.Form15.resources
+C:\Users\T.Paterson\source\repos\Final Progect\Final Progect\obj\Debug\Final_Progect.gameEasy.resources
